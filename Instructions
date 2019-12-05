@@ -1,0 +1,16 @@
+1. Install the required libraries
+
+oauth2client
+httplib2
+apiclient
+(Update pip if necessary)
+
+2. Setup oauth2 credentials and api key
+https://console.developers.google.com
+Setup oauth2 type as "other" with http://localhost (if needed)
+
+3. Run routes.py
+
+4. Start createEventsSample.py
+
+5. Go through the oauth2 prompt, enter your key and enjoy!
