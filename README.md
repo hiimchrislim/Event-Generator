@@ -13,7 +13,7 @@ You'll never miss an important event whether it be course selections or tuition 
 5. All events are inserted into your Google calendar by accessing the API
 6. Enjoy and never worry about missing an important school event!
 
-# Usage
+# Usage/Installation
 
 1. Install the required libraries
 
